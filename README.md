@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+<p>
+  <img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+</p>
