@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  <img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+  <img src="https://github.com/fasikaWalle/fasikawalle/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 </p>
